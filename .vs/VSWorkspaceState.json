@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\fcisdsp-dsp.toolbox",
+    "\\fcisdsp-dsp.toolbox\\DSPToolbox",
+    "\\fcisdsp-dsp.toolbox\\DSPToolbox\\DSPComponents",
+    "\\fcisdsp-dsp.toolbox\\DSPToolbox\\DSPComponentsUnitTest",
+    "\\fcisdsp-dsp.toolbox\\DSPToolbox\\DSPComponents\\Algorithms"
+  ],
+  "SelectedNode": "\\fcisdsp-dsp.toolbox\\DSPToolbox\\DSPComponents\\Algorithms\\QuantizationAndEncoding.cs",
+  "PreviewInSolutionExplorer": false
+}

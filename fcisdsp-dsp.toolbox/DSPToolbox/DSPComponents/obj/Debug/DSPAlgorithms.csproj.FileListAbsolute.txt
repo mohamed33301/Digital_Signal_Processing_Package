@@ -1,0 +1,34 @@
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox-78ddd969882b\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\bin\Debug\AWSSDK.dll
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\bin\Debug\AWSSDK.pdb
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CopyComplete
+C:\Users\mibra\OneDrive\Desktop\7-term\DSP\Labs\Lab 1\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\bin\Debug\Microsoft.Data.Tools.Components.dll
+D:\التعليم\الكليه\تالته ترم اول\New\digital signal processing\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+D:\التعليم\الكليه\تالته ترم اول\New\digital signal processing\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+D:\التعليم\الكليه\تالته ترم اول\New\digital signal processing\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\bin\Debug\AWSSDK.dll
+D:\التعليم\الكليه\تالته ترم اول\New\digital signal processing\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\bin\Debug\AWSSDK.pdb
+D:\التعليم\الكليه\تالته ترم اول\New\digital signal processing\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+D:\التعليم\الكليه\تالته ترم اول\New\digital signal processing\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+D:\التعليم\الكليه\تالته ترم اول\New\digital signal processing\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CopyComplete
+D:\التعليم\الكليه\تالته ترم اول\New\digital signal processing\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+D:\التعليم\الكليه\تالته ترم اول\New\digital signal processing\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+D:\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+D:\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+D:\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\bin\Debug\AWSSDK.dll
+D:\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\bin\Debug\AWSSDK.pdb
+D:\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.AssemblyReference.cache
+D:\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CoreCompileInputs.cache
+D:\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.CopyComplete
+D:\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+D:\Package\fcisdsp-dsp.toolbox\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
